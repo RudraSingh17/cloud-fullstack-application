@@ -298,11 +298,6 @@ This project successfully demonstrates:
 
 ---
 
-# 👨‍💻 Author
-
-**David Ikundji**
-
-**AWS Cloud & Devops Engineer**
 
 🐙 GitHub: https://github.com/davidikundji
 
